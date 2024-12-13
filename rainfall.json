@@ -1,0 +1,12 @@
+{
+  "rainfall": [
+    {"month": "January", "rainfall": 250},
+    {"month": "February", "rainfall": 300},
+    {"month": "March", "rainfall": 400},
+    {"month": "April", "rainfall": 320},
+    {"month": "May", "rainfall": 210},
+    {"month": "June", "rainfall": 120},
+    {"month": "July", "rainfall": 500},
+    {"month": "August", "rainfall": 600}
+  ]
+}
